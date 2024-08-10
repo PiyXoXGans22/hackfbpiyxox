@@ -505,7 +505,7 @@ def crack():
                 zedd.join()
 
         except IOError:
-            print '\x1b[1;91m[!] File Gak Ada
+            print '\x1b[1;91m[!] File Gak Ada'
             raw_input('\n\x1b[1;91m[ \x1b[1;97mBalik \x1b[1;91m]')
             menu_hack()
 
